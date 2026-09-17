@@ -120,7 +120,7 @@ jobs:
               compileSdk 34
 
               defaultConfig {
-                  applicationId "com.gemini.live"
+                  applicationId "com.gemini.live2"
                   minSdk 24
                   targetSdk 34
                   versionCode 20
